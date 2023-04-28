@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nisha Goel
-- 🌱 I’m currently working in
--  Frontend Development
+- 🌱 I’m currently working in Frontend Development
 - 💞️ I’m looking to collaborate on interesting projects that can help me grow
 - 📫 You can reach me at nishagoel2001@gmail.com
 
